@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProjetoPonto/1.0.0": {
+        "runtime": {
+          "ProjetoPonto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoPonto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
